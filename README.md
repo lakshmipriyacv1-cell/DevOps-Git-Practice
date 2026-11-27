@@ -2,7 +2,7 @@
 # DevOps Git Practice
 
 ## About
-This repository is created to practice Git and GitHub fundamentals.
+This repository is created to learn DevOps practically.
 
 ## Topics Covered
 - Git initialization
