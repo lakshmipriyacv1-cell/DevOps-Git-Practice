@@ -2,7 +2,7 @@
 # DevOps Git Practice
 
 ## About
-This repository is created to build real-time DevOps projects.
+This repository is created to learn DevOps practically and build real-time DevOps projects.
 
 ## Topics Covered
 - Git initialization
